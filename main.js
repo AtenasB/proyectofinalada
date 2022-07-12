@@ -26,3 +26,10 @@ fetch("https://rickandmortyapi.com/api/character")
 
 })
 
+inputSearch = document.getElementById("inputSearch")
+
+function buscar_buscador(){
+    
+}
+
+
