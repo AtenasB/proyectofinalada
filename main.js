@@ -17,7 +17,6 @@ fetch("https://rickandmortyapi.com/api/character")
                 <p>
                     ${dataApi[i].name}
                 </p>
-                <button type="button">Ver más</button>
             </div>
                 
         ` 
@@ -26,10 +25,5 @@ fetch("https://rickandmortyapi.com/api/character")
 
 })
 
-inputSearch = document.getElementById("inputSearch")
-
-function buscar_buscador(){
-    
-}
 
 

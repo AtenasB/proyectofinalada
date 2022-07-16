@@ -12,26 +12,6 @@ h1 {
     margin-right: 90px;
 }
 
-.buscador {
-    display: flex;
-    justify-content: center;
-    width: 100%;
-}
-
-input {
-    margin: 0 auto;
-    display: block;    
-    filter:alpha(opacity=20);
-    -moz-opacity:.20;opacity:.20;
-    width: 1080px;
-    height: 25px;
-}
-
-.boton-enviar {
-    background-color: #0C7C85;
-    color: white;
-}
-
 body {
     margin: 0;
     background-color: #053D45;
@@ -75,16 +55,6 @@ body {
 
 img {
     border-radius: 50%;
-}
-
-button {
-    width: 100px;
-    height: 30px;
-    background-color: #053D45;
-    border: none;
-    border-radius: 2px;
-    color: white;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 footer {
